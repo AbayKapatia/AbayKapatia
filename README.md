@@ -6,7 +6,9 @@ I am a Associate engineer, passionate about contributing to the coding world. Te
 </p>
 <center>
 <div>
-<img src="https://streak-stats.demolab.com/?user=abaykapatia&theme=algolia" />
+<center>
+  <img src="https://streak-stats.demolab.com/?user=abaykapatia&theme=algolia" />
+</center>
 </center>
 </div>
 
