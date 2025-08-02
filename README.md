@@ -1,4 +1,4 @@
-<div style="align:center"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I+am+Abay+Kapatia+](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=80&pause=1000&color=FF4200&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=150&lines=Hi%2C+I+am+Abay+Kapatia" />
+<div style="align:center"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I+am+Abhay+Kapatia+](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=80&pause=1000&color=FF4200&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=150&lines=Hi%2C+I+am+Abay+Kapatia" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=40&pause=1000&color=1b86ff&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=80&lines=Welcome+to+my+profile" />
 </div>
 <p style="text-align: center;">
@@ -6,9 +6,7 @@ I am a Associate engineer, passionate about contributing to the coding world. Te
 </p>
 <center>
 <div>
-<center>
   <img src="https://streak-stats.demolab.com/?user=abaykapatia&theme=algolia" />
-</center>
 </center>
 </div>
 
